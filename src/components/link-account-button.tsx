@@ -8,7 +8,6 @@ const LinkAccountButton = () => {
       onClick={async () => {
       }}
     >
-      Link Account
     </Button>
   );
 };
