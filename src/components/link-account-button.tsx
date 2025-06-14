@@ -7,7 +7,6 @@ const LinkAccountButton = () => {
   return (
     <Button
       onClick={async () => {
-        window.location.href = authUrl;
       }}
     >
       Link Account
