@@ -14,4 +14,3 @@ const LinkAccountButton = () => {
   );
 };
 
-export default LinkAccountButton;
