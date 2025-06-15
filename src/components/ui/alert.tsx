@@ -38,7 +38,6 @@ const AlertTitle = React.forwardRef<
   />
 ))
 
-const AlertDescription = React.forwardRef<
   HTMLParagraphElement,
 >(({ className, ...props }, ref) => (
   <div
