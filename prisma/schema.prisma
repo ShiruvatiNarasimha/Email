@@ -9,8 +9,7 @@ datasource db {
     provider = "postgresql
 }
 
-model User 
-    emailAddress      String @unique
+model User
     firstName         String
     lastName          String 
     imageUrl          String?
