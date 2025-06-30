@@ -26,7 +26,7 @@ const actionTypes = {
 
 let count = 0
 
-function genId() {
+
   
 }
 
